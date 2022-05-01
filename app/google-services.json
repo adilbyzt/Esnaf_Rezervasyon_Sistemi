@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "260338489665",
+    "project_id": "rezervasyon-sistemi-2d22f",
+    "storage_bucket": "rezervasyon-sistemi-2d22f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260338489665:android:0faa2688cc18413ad169c0",
+        "android_client_info": {
+          "package_name": "com.example.cardviewdeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260338489665-g5136f1e44udu1sn4366822mnufi2aid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmIe3s6CfkCEiJslEEHR-tRdHJqMXmVHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260338489665-g5136f1e44udu1sn4366822mnufi2aid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260338489665:android:96fa61c06aeb6174d169c0",
+        "android_client_info": {
+          "package_name": "com.example.denemefb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260338489665-g5136f1e44udu1sn4366822mnufi2aid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmIe3s6CfkCEiJslEEHR-tRdHJqMXmVHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260338489665-g5136f1e44udu1sn4366822mnufi2aid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260338489665:android:841f2f79495be213d169c0",
+        "android_client_info": {
+          "package_name": "com.example.dumendensearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260338489665-g5136f1e44udu1sn4366822mnufi2aid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmIe3s6CfkCEiJslEEHR-tRdHJqMXmVHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260338489665-g5136f1e44udu1sn4366822mnufi2aid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260338489665:android:156aec7bcd1ae75cd169c0",
+        "android_client_info": {
+          "package_name": "com.example.firebasedeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260338489665-g5136f1e44udu1sn4366822mnufi2aid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmIe3s6CfkCEiJslEEHR-tRdHJqMXmVHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260338489665-g5136f1e44udu1sn4366822mnufi2aid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260338489665:android:7e7e6bf9b2558500d169c0",
+        "android_client_info": {
+          "package_name": "com.example.projemobilvol1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260338489665-g5136f1e44udu1sn4366822mnufi2aid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmIe3s6CfkCEiJslEEHR-tRdHJqMXmVHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260338489665-g5136f1e44udu1sn4366822mnufi2aid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
