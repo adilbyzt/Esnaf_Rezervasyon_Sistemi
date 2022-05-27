@@ -79,7 +79,7 @@ Arama çubuğuna basıldığında, Randevu alınmak istenilen esnafın adı giri
 ```
 2.1.1.3 EsnafSecim Sayfası (filtreli)
 ```
-Arama çubuğundan istenilen esnaf aranabilir ve bilgileri görüntülenebilir.Seçilen esnafa özel, esnafın çalışma saatlerine göre müşterinin randevusunun tarih ve saatini seçebileceği bir sayfa açılır. Sayfanın üst kısmından randevu tarihi seçilir ve seçilelen randevu tarihine göre alt kısımdaki dolu saatler veritabanından çekilerek güncellenir. Müşterinin dolu olan butonlara basması kısıtlanmıştır. Sadece boş olan butonlara basılabilir. Butona basıldığında Randevuyu oluşturan müşterinin bilgilerinin alınacağı bir Sayfa açılır.
+Arama çubuğundan istenilen esnaf aranabilir ve bilgileri görüntülenebilir. Bu sayede kolay bir şekilde liste içerisinden arama yapılabilir.
 <br/><br/>
 ![image](https://user-images.githubusercontent.com/77435563/170677826-24a3ac72-dbb3-4a37-ae08-678c6fac3fdf.png)
 <br/><br/>
